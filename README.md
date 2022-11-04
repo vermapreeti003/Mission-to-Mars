@@ -15,15 +15,22 @@ Using Splinter an automated browsing was used to visit the Mars temperature data
 After extracting Mars temperature table, we used this table to analyze and visualize the data by finding answers to the following questions:
 
 * How many months exist on Mars?
+
   There are 12 months on Mars
+  
 * Which month, on average, has the lowest temperature? The highest?
+  
   The month 3 is the warmest 
   The month 8 is the coldest.
+  
 * Which month, on average, has the lowest atmospheric pressure? The highest?
-  The month 6 have lowest pressure.
+ 
+ The month 6 have lowest pressure.
   The month 9 have highest pressure
+  
 * How many terrestrial days exist in a Martian year? A visual estimate within 25% was made.
-  Mars circles the Sun 3 times in 2000 days. so 2000/3=666. Martial year is approx 666 terrestrial days.
+ 
+ Mars circles the Sun 3 times in 2000 days. so 2000/3=666. Martial year is approx 666 terrestrial days.
   
  ## Summary
 As we have seen, Web scraping automates the tasks of extracting online data for analysis. Instead of manually visiting each website, copying the data, and then pasting that data into a file, a web-scraping script automatically performs all those actions which made our analyzing easier and faster. 
